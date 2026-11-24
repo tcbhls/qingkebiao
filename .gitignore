@@ -1,0 +1,14 @@
+# Local toolchain & build artifacts
+.toolchain/
+app/build/
+*.idsig
+
+# Signing keys (NEVER commit private keystores)
+*.jks
+*.keystore
+
+# OS / IDE clutter
+.DS_Store
+Thumbs.db
+.idea/
+*.iml

@@ -1,0 +1,8 @@
+{"dateList":[{"selectCourseList":[
+{"courseName":"数据库系统","attendClassTeacher":"黄老师*","timeAndPlaceList":[
+  {"classDay":3,"classSessions":1,"continuingSession":2,"classWeek":"11111111111100000000","teachingBuildingName":"明德楼","classroomName":"305"}
+]},
+{"courseName":"计算机组成原理","attendClassTeacher":"徐老师","timeAndPlaceList":[
+  {"classDay":5,"classSessions":5,"continuingSession":3,"classWeek":"01010101010100000000","teachingBuildingName":"理工楼","classroomName":"B102"}
+]}
+]}]}

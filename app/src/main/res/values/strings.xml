@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">轻课表</string>
+    <string name="widget_name">轻课表 · 日程</string>
+    <string name="widget_week_name">轻课表 · 周课表</string>
+    <string name="loading">正在读取课表…</string>
+</resources>
